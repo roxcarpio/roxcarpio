@@ -1,17 +1,16 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-    Hey, nice to see you in my workspace 
+    Welcome!
   <a href="readme-spanish" > 
     <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="20" align="right" />
     <img src="https://img.shields.io/badge/Readme Lenguaje-d80028.svg?style=flat" align="right" />
   </a>
 </h1>
 
-<div><p>Welcome!</br>
-
-I'm Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b> working at <a href="https://www.atsistemas.com/en">atSistemas</a>. Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
+<div><p>I'm Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b> working at <a href="https://www.atsistemas.com/en">atSistemas</a>. Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
 </p></div>
 
+<h3>Find me on ...</h3>
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://github.com/roxcarpio" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" alt="twitter" height="40px" width="40px" />
@@ -31,7 +30,7 @@ I'm Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons
 </p>
 
 
-<h3>Things I code with</h3>
+<h3>Tools I work with</h3>
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
