@@ -9,27 +9,7 @@
 <div><p>My name is Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b>, currently working at <a href="https://www.atsistemas.com/en">atSistemas</a>. Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
 </p></div>
 
-<h2>Find me on ...</h2>
-<p align="center" style="margin: -20px 0 30px">
-   <a href="https://github.com/roxcarpio" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" alt="twitter" height="40px" width="40px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/roxcarpio1" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://www.iconsdb.com/icons/preview/black/twitter-3-xxl.png" alt="twitter" height="40px" width="40px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rosacarpiolopez" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://www.iconsdb.com/icons/preview/black/linkedin-3-xxl.png" alt="linkedin" height="40px" width="40px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:contact@aralroca.com" target="_blank">
-    <img align="center" src="https://image.flaticon.com/icons/svg/59/59069.svg" alt="email" height="40px" width="40px" />
-  </a>
-</p>
-
-
-<h2>Tools I work with</h2>
+<h4>🔧 Tools I work with</h4>
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
@@ -52,11 +32,44 @@
 </p>
 
 
+#### 🧡 &nbsp;&nbsp;My passions
 
+* Technology and software
+* Science 
+* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
+* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
+* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
+* Nutrition
+* Nature
+
+
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://github.com/roxcarpio" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" alt="twitter" height="40px" width="40px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/roxcarpio1" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://www.iconsdb.com/icons/preview/black/twitter-3-xxl.png" alt="twitter" height="40px" width="40px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rosacarpiolopez" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://www.iconsdb.com/icons/preview/black/linkedin-3-xxl.png" alt="linkedin" height="40px" width="40px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:xxx" target="_blank">
+    <img align="center" src="https://image.flaticon.com/icons/svg/59/59069.svg" alt="email" height="40px" width="40px" />
+  </a>
+</p>
 
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=roxcarpio.roxcarpio" alt="visitor badge"/>       
+</p>
+
 </p>
 
 
