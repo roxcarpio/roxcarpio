@@ -3,7 +3,7 @@
     Welcome!
   <a href="readme-spanish" > 
     <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="20" align="right" />
-    <img src="https://img.shields.io/badge/Change_Lenguaje-d80028.svg?style=flat" align="right" />
+    <img src="https://img.shields.io/badge/Change_to:-d80028.svg?style=flat" align="right" />
   </a>
 </h1>
 
