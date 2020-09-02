@@ -3,7 +3,7 @@
     Hey, nice to see you in my workspace 
   <a href="readme-spanish" > 
     <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="20" align="right" />
-    <img src="https://img.shields.io/badge/Readme Lenguaje-black.svg?style=flat-square" align="right" />
+    <img src="https://img.shields.io/badge/Readme Lenguaje-black.svg?style=flat" align="right" />
   </a>
 </h1>
 
