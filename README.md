@@ -7,6 +7,7 @@
 </h1>
 
 <div><p>My name is Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b>, currently working at <a href="https://www.atsistemas.com/en">atSistemas</a>. Previously, living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
+Kubernetes Administrator and Kubernetes Application Developer certified. Interested in Continuous Integration and Continuous Delivery philosophy from experience working in a distributed and international environment for the Space sector.
 </p></div>
 
 <h4>🔧 Tools I work with</h4>
@@ -31,8 +32,7 @@
   <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-ef4f9a?style=flat-square&logo=kibana&logoColor=white" />
 </p>
 
-
-#### 🧡 &nbsp;&nbsp;My passions
+<h4>🧡 My passions</h4>
 
 * Technology and software
 * Continuos Integration
