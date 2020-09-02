@@ -14,13 +14,7 @@ Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg
 </p></div>
 
 
-<h3>Where to find me</h3>
-<p align="center">
-  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" width="40" /></a>
-  <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://www.iconsdb.com/icons/preview/black/twitter-3-xxl.png" width="40" /></a> 
-  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://www.iconsdb.com/icons/preview/black/linkedin-3-xxl.png" width="40" /</a>
-</p>
-  
+
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" alt="twitter" height="40px" width="40px" />
