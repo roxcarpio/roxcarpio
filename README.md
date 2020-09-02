@@ -7,13 +7,21 @@
   </a>
 </h1>
 
-<div><p>Welcome!, </br>
+<div><p>Welcome! </br>
 
 I'm Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b> working at <a href="https://www.atsistemas.com/en">atSistemas</a>. </br>
 Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a>
 </p></div>
 
-•
+
+<h3>Where to find me</h3>
+<p align="center">
+  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" width="35" /></a>  •
+  <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://www.iconsdb.com/icons/preview/black/twitter-3-xxl.png" width="35" /></a>  •  
+  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://www.iconsdb.com/icons/preview/black/linkedin-3-xxl.png" width="35" /</a>
+</p>
+
+
 <h3>Things I code with</h3>
 <p>
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
