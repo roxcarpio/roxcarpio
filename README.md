@@ -11,7 +11,7 @@
 I am Kubernetes Administrator and Kubernetes Application Developer certified and interested in Continuous Integration and Continuous Delivery philosophy from experience working in a distributed and international environment for the Space sector.
 </p></div>
 
-<h4>🔧 Tools I work with</h4>
+<h3>🔧 Tools I work with</h3>
 <p align="left" style="margin: -20px 0 30px">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />   
@@ -33,7 +33,7 @@ I am Kubernetes Administrator and Kubernetes Application Developer certified and
   <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-ef4f9a?style=flat-square&logo=kibana&logoColor=white" />
 </p>
 
-<h4>🧡 My passions</h4>
+<h3>🧡 My passions</h3>
 
 * Technology and software
 * Continuos Integration
