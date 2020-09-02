@@ -16,9 +16,27 @@ Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg
 
 <h3>Where to find me</h3>
 <p align="center">
-  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" width="40" /></a>  •
-  <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://www.iconsdb.com/icons/preview/black/twitter-3-xxl.png" width="40" /></a>  •  
+  <a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" width="40" /></a>
+  <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://www.iconsdb.com/icons/preview/black/twitter-3-xxl.png" width="40" /></a> 
   <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://www.iconsdb.com/icons/preview/black/linkedin-3-xxl.png" width="40" /</a>
+</p>
+  
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" alt="twitter" height="40px" width="40px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://www.iconsdb.com/icons/preview/black/twitter-3-xxl.png" alt="twitter" height="40px" width="40px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://www.iconsdb.com/icons/preview/black/linkedin-3-xxl.png" alt="linkedin" height="40px" width="40px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@aralroca.com" target="_blank">
+    <img align="center" src="https://image.flaticon.com/icons/svg/59/59069.svg" alt="email" height="40px" width="40px" />
+  </a>
 </p>
 
 
