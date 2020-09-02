@@ -10,9 +10,9 @@
 </p></div>
 
 <h4>🔧 Tools I work with</h4>
-<p>
+<p align="left" style="margin: -20px 0 30px">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />   
   <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=apple&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -35,17 +35,17 @@
 #### 🧡 &nbsp;&nbsp;My passions
 
 * Technology and software
-* Science 
-* Machine learning ([my articles about it](https://aralroca.com/blog?q=machine-learning))
-* Books ([goodreads](https://www.goodreads.com/user/show/32447157-aral-roca-gomez))
-* Parkour ([instagram](https://www.instagram.com/aralroca/), [youtube](http://youtube.com/aralroca))
-* Nutrition
+* Continuos Integration
+* Cloud Native
+* Athletics
+* Football
+* Rravel
 * Nature
 
 
 <hr>
 <p align="center">
-  <b>How to reach me</b>
+  <b>Did you like what you found in my repositories? Let's get in touch!</b>
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://github.com/roxcarpio" target="_blank" style='margin-right:10px'>
