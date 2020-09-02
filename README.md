@@ -1,10 +1,11 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you in my workspace <a href="readme-spanish" align="right"><img src="https://img.shields.io/badge/Readme Lenguaje-black.svg?style=flat-square" /> <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="20 alt="spanish" /></a></h1>
-  
-  <a href="http//www.google.com"><p style="text-align:center">Search</p></a>
-
-
-
-
+<h1>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+    Hey, nice to see you in my workspace 
+  <a href="readme-spanish" > 
+    <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="20" align="right" />
+    <img src="https://img.shields.io/badge/Readme Lenguaje-black.svg?style=flat-square" align="right" />
+  </a>
+</h1>
 
 <div><p>Welcome!, </br>
 
