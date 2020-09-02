@@ -46,7 +46,7 @@ I am Kubernetes Administrator and Kubernetes Application Developer certified and
 
 <hr>
 <p align="center">
-  <b>Did you like what you found in my repositories? Let's get in touch!</b>
+  <b>Have you liked what you have found in my repositories? Let's get in touch!</b>
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://github.com/roxcarpio" target="_blank" style='margin-right:10px'>
