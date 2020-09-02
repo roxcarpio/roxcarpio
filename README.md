@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<div><p>My name is Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b>, currently working at <a href="https://www.atsistemas.com/en">atSistemas</a>. Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
+<div><p>My name is Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b>, currently working at <a href="https://www.atsistemas.com/en">atSistemas</a>. Previously, living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
 </p></div>
 
 <h4>🔧 Tools I work with</h4>
