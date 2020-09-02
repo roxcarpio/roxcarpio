@@ -40,7 +40,7 @@ I am Kubernetes Administrator and Kubernetes Application Developer certified and
 * Cloud Native
 * Athletics
 * Football
-* Rravel
+* Travel
 * Nature
 
 
