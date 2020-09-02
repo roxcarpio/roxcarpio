@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you in my workspace.</h1>
 
 <div align="right">
-  <a href="https://aralroca.com/donate">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+  <a href="https://spanish-Readme">
+    <img src="https://img.shields.io/badge/Lenguaje-black.svg?style=flat-square"/> <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="20 alt="spanish"/>
   </a>
 </div>
 
-<div><p>Welcome to my page!, </br>
+<div><p>Welcome!, </br>
 
 I'm Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b> working at <a href="https://www.atsistemas.com/en">atSistemas</a>. </br>
 Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a>
