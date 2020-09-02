@@ -45,7 +45,7 @@
 
 <hr>
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <b>How to reach me</b>
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://github.com/roxcarpio" target="_blank" style='margin-right:10px'>
