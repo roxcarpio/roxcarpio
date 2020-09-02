@@ -7,24 +7,21 @@
   </a>
 </h1>
 
-<div><p>Welcome! </br>
+<div><p>Welcome!</br>
 
-I'm Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b> working at <a href="https://www.atsistemas.com/en">atSistemas</a>. </br>
-Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a>
+I'm Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b> working at <a href="https://www.atsistemas.com/en">atSistemas</a>. Previous living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
 </p></div>
 
-
-
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
+   <a href="https://github.com/roxcarpio" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://www.iconsdb.com/icons/preview/black/github-8-xxl.png" alt="twitter" height="40px" width="40px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
+  <a href="https://twitter.com/roxcarpio1" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://www.iconsdb.com/icons/preview/black/twitter-3-xxl.png" alt="twitter" height="40px" width="40px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
+  <a href="https://www.linkedin.com/in/rosacarpiolopez" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://www.iconsdb.com/icons/preview/black/linkedin-3-xxl.png" alt="linkedin" height="40px" width="40px" />
   </a>
   &nbsp;&nbsp;
