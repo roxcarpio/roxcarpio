@@ -6,12 +6,12 @@
   </a>
 </h1>
 
-<div><p>My name is Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b>, currently working at <a href="https://www.atsistemas.com/en">atSistemas</a>. Previously, living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
+<div><p>Me llamo Rosa, Ingeniera Senior DevOps de <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, España</b>, actualmente trabajo en <a href="https://www.atsistemas.com/es">atSistemas</a>. Anteriormente, viví en <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Alemania</b> y trabajé en <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
 
-I am Kubernetes Administrator and Kubernetes Application Developer certified and interested in Continuous Integration and Continuous Delivery philosophy from experience working in a distributed and international environment for the Space sector.
+Estoy certificada en Kubernetes Administrator (CKA) y Kubernetes Application Developer (CKAD). Me interesa la integración continua y entrega continua y tengo experiencia trabajando en grupos internacionales y distribuidos en el sector espacio.
 </p></div>
 
-<h3>🔧 Tools I work with</h3>
+<h3>🔧 Herramientas con las que trabajo</h3>
 <p align="left" style="margin: -20px 0 30px">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white" />   
@@ -33,20 +33,20 @@ I am Kubernetes Administrator and Kubernetes Application Developer certified and
   <img alt="Kibana" src="https://img.shields.io/badge/-Kibana-ef4f9a?style=flat-square&logo=kibana&logoColor=white" />
 </p>
 
-<h3>🧡 My passions</h3>
+<h3>🧡 Mis pasiones</h3>
 
-* Technology and software
-* Continuos Integration
+* Tecnología y software
+* Integración Continua
 * Cloud Native
-* Athletics
-* Football
-* Travel
-* Nature
+* Atletismo
+* Fútbol
+* Viajar
+* Naturaleza
 
 
 <hr>
 <p align="center">
-  <b>Have you liked what you have found in my repositories? Let's get in touch!</b>
+  <b>Te ha gustado lo que has encontrado en los repositorios? Ponte en contacto!</b>
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://github.com/roxcarpio" target="_blank" style='margin-right:10px'>
