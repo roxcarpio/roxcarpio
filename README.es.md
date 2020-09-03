@@ -1,6 +1,6 @@
 <h1>
   Hola 😄
-  <a href="readme-spanish" > 
+  <a href="https://github.com/roxcarpio/roxcarpio/blob/master/README.md" > 
     <img src="https://image.flaticon.com/icons/svg/323/323329.svg" width="20" align="right" />
     <img src="https://img.shields.io/badge/Change_to:-29327a.svg?style=flat" align="right" />
   </a>
@@ -46,7 +46,7 @@ Estoy certificada en Kubernetes Administrator (CKA) y Kubernetes Application Dev
 
 <hr>
 <p align="center">
-  <b>Te ha gustado lo que has encontrado en los repositorios? Ponte en contacto!</b>
+  <b>¿Te ha gustado lo que has encontrado en los repositorios? ¡Ponte en contacto conmigo!</b>
 
 <p align="center" style="margin: -20px 0 30px">
    <a href="https://github.com/roxcarpio" target="_blank" style='margin-right:10px'>
