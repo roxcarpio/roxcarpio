@@ -1,6 +1,6 @@
 <h1>
   Hello 😄
-  <a href="readme-spanish" > 
+  <a href="https://github.com/roxcarpio/roxcarpio/blob/master/README.es.md" > 
     <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="20" align="right" />
     <img src="https://img.shields.io/badge/Change_to:-d80028.svg?style=flat" align="right" />
   </a>
@@ -8,7 +8,7 @@
 
 <div><p>My name is Rosa, Senior DevOps engineer from <img src="https://image.flaticon.com/icons/svg/197/197593.svg" width="13"/> <b>Valencia, Spain</b>, currently working at <a href="https://www.atsistemas.com/en">atSistemas</a>. Previously, living in <img src="https://image.flaticon.com/icons/svg/197/197571.svg" width="13"/> <b>Germany</b> working at <a href="https://www.de.cgi.com/de">CGI Deutschland</a></br>
 
-I am Kubernetes Administrator and Kubernetes Application Developer certified and interested in Continuous Integration and Continuous Delivery philosophy from experience working in a distributed and international environment for the Space sector.
+I am Kubernetes Administrator (CKA) and Kubernetes Application Developer (CKAD) certified and interested in Continuous Integration and Continuous Delivery philosophy from experience working in a distributed and international environment for the Space sector.
 </p></div>
 
 <h3>🔧 Tools I work with</h3>
